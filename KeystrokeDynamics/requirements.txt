@@ -1,0 +1,4 @@
+numpy
+tensorflow
+pynput
+matplotlib
